@@ -1,3 +1,6 @@
+## Inspiration
+https://github.com/asingh33/CNNGestureRecognizer
+
 ## Requirements
 - Python 3
 
